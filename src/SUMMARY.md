@@ -1,15 +1,15 @@
-# The Rust Programming Language
+# Rust dasturlash tili
 
-[The Rust Programming Language](title-page.md)
-[Foreword](foreword.md)
-[Introduction](ch00-00-introduction.md)
+[Rust dasturlash tili](title-page.md)
+[So'zboshi](foreword.md)
+[Kirish](ch00-00-introduction.md)
 
-## Getting started
+## Boshlash
 
-- [Getting Started](ch01-00-getting-started.md)
-    - [Installation](ch01-01-installation.md)
-    - [Hello, World!](ch01-02-hello-world.md)
-    - [Hello, Cargo!](ch01-03-hello-cargo.md)
+- [Boshlash](ch01-00-getting-started.md)
+    - [O'rnatish](ch01-01-installation.md)
+    - [Salom, Dunyo!](ch01-02-hello-world.md)
+    - [Salom, Cargo!](ch01-03-hello-cargo.md)
 
 - [Programming a Guessing Game](ch02-00-guessing-game-tutorial.md)
 
